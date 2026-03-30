@@ -26,9 +26,9 @@
 
 ## Задание 2 
 
-[часть 1](https://github.com/BlohinaValeria/Educational-and-research-workshop/blob/main/LR1/mindmap_1.png)
+![часть 1](https://github.com/BlohinaValeria/Educational-and-research-workshop/blob/main/LR1/mindmap_1.png)
 
-[часть 2](https://github.com/BlohinaValeria/Educational-and-research-workshop/blob/main/LR1/mindmap_2.png)
+![часть 2](https://github.com/BlohinaValeria/Educational-and-research-workshop/blob/main/LR1/mindmap_2.png)
 
 Разработка программного продукта в условиях неопределенных требований - Agile (Scrum):
 1.метод «пользовательских историй» (user stories)
