@@ -400,11 +400,11 @@ if __name__ == "__main__":
 
 ### Результат программы:
 
-![]()
+![](https://github.com/BlohinaValeria/Educational-and-research-workshop/blob/main/LR2/задание%202.png)
 
 ### Графики:
 
-![]()
+![](https://github.com/BlohinaValeria/Educational-and-research-workshop/blob/main/LR2/sorting_algorithms_comparison.png)
 
 ## Этап 3. Сравнение и анализ
 
